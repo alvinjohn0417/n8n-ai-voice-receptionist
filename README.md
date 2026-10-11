@@ -26,7 +26,7 @@ Customer Call → Vapi → n8n Webhook → Appointment Processing → Google Cal
 
 ## 📁 Workflow File
 
-📥 [Download AI Receptionist n8n Workflow](./AI_Receptionist_GitHub_Safe.txt)
+📥 [Download AI Receptionist n8n Workflow](./AI_Receptionist_GitHub_Safe_Notepad.txt)
 
 Import the workflow into n8n and configure the required credentials and integrations.
 
