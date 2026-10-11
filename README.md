@@ -30,6 +30,10 @@ Customer Call → Vapi → n8n Webhook → Appointment Processing → Google Cal
 
 Import the workflow into n8n and configure the required credentials and integrations.
 
+## 🖼️ Workflow Preview
+
+![AI Receptionist n8n Workflow](./AI%20receptionist%20final.png)
+
 ## 👨‍💻 Developer
 
 **Alvin John U. Ramos**  
